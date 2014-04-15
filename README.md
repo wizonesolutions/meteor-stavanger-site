@@ -1,4 +1,1 @@
-meteor-stavanger-site
-=====================
-
-A homepage for Meteor Stavanger.
+Just a redirect to the [meetup group](http://www.meetup.com/Meteor-Stavanger) for now.
